@@ -1,0 +1,20 @@
+td, th {
+  vertical-align: middle !important;
+  text-align: center !important;
+}
+ 
+.input-group {
+  margin: 20px 0px;
+}
+ 
+svg {
+  height: 150px;
+}
+ 
+td:first-of-type, td:first-of-type > div {
+  height: 200px;
+  width: 250px;
+}
+
+
+h1 { padding-top: 15px; color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 275px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center; }
